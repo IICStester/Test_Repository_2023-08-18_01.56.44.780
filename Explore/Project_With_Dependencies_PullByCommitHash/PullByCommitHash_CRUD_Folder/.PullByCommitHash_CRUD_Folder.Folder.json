@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "giKF0P4AiozbuIHV7CNFee",
+    "name" : "PullByCommitHash_CRUD_Folder",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-18T08:57:03.210Z",
+  "objectRefs" : [ ]
+}
